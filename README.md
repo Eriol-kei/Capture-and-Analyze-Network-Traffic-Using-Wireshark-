@@ -3,8 +3,6 @@ Capture live network traffic, identify different protocols, export the capture, 
 
 ## Steps Performed
 
-Installed Wireshark
-The system already had Wireshark installed.
 
 Started Packet Capture
 Opened Wireshark and began capturing on the active network interface.
@@ -33,7 +31,7 @@ ICMP
 TLS
 
 Exported the Capture File
-The capture was saved as a .pcap file:
+The capture was saved as a .pcapng file:
 
 task5.pcapng
 
